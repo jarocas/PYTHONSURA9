@@ -1,6 +1,8 @@
-.fondo{
+/*estilos para imagen de fondo de la pestaña inicio*/
+.fondo {
     background-image: url("./img/banner2.jpeg");
     background-position: top center;
     background-size: cover;
     padding: 10% 20% 35% 30%;
 }
+
